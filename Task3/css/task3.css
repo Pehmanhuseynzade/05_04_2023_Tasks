@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html:root{
+    font-size: 15px;
+}
+.nav{
+    width: 100%;
+    height: 100px;
+    background-color: rgba(0, 0, 255, 0.551);
+    padding-top: 15px;
+    padding-left: 30px;
+}
+h1{
+    font-size: 30px;
+    color: white;
+}
+p{
+    color: white;
+}
+.cupcake{
+    width: 50%;
+    height: 25vh;
+    border: 4px solid rgba(2, 83, 2, 0.566);
+    margin: 0 auto;
+    border-radius: 3px;
+    background-color: rgba(0, 128, 0, 0.753);
+    padding: 20px;
+}
+.signature{
+    margin-left: 500px;
+}
+.btn{
+    width: 25%;
+    height: 20vh;
+    margin: 0 auto;
+    border: 4px solid rgba(217, 16, 16, 0.853);
+    border-radius: 20px;
+    background-color: rgba(255, 0, 0, 0.821);
+    transition: .5s;
+}
+.btn:hover{
+    background-color:rgba(217, 16, 16, 0.853) ;
+}
+.try{
+    padding-left: 120px;
+    padding-top: 30px;
+}
+.link{
+    padding-left: 120px;
+    font-size: 30px;
+    color: white;
+}
+.inform{
+    width: 100%;
+    height: 40vh;
+    background-color: #112942;
+}
+.title{
+    font-size: 30px;
+    padding-top: 35px;
+    padding-left: 30px;
+}
+.paragraph1{
+    padding-left: 30px ;
+    padding-right:30px ;
+}
+.paragraph2{
+    padding-left: 30px ;
+    padding-right:30px ;
+}
+.enddiv{
+    width: 100%;
+    height: 5vh;
+    background-color: #09131ef0;
+    text-decoration: none;
+    padding-left: 500px;
+    padding-top: 10px;
+    display: flex;
+    gap: 50px;
+}
+.choosen{
+    color: rgba(69, 69, 211, 0.967);
+}

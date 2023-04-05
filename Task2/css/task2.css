@@ -1,0 +1,35 @@
+.box{
+    height: 160px;
+    width: 160px;
+    border: 5px solid rgb(0, 42, 255);
+    outline: 5px solid red;
+    border-radius: 130px;
+    margin: 0 auto;
+}
+body{
+    background-color: rgba(219, 183, 157, 0.516);
+}
+.box img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    overflow: hidden;
+}
+.word{
+    margin: 0 auto;
+    margin-left: 600px;
+    font-size: 30px;
+}
+.h_line {
+    border-bottom: 2px solid rgb(100, 100, 239);
+    width: 700px;
+    margin: auto;
+}
+.main{
+    width: 60%;
+    height: 40vh;
+    margin: 0 auto;
+}
+.p{
+    line-height: 0.5;
+}
